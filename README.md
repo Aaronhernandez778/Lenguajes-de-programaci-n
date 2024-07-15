@@ -1,1 +1,1 @@
-# Lenguajes-de-programaci-n
+# Diplomado en lenguajes de programación
